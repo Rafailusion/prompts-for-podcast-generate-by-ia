@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://cdn.openart.ai/published/kMrM0JFSmEEoRNGi8FpQ/2LOknOpO_Hw75_1024.webp"
     width="300"
 />
 </p>
