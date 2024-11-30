@@ -81,12 +81,12 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/rafaelcesarprestes.exe">
+        href="www.linkedin.com/in/rafaelcesarprestes">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
+        href="https://www.instagram.com/raposo_tech/">
         Instagram
     </a>
     &nbsp;|&nbsp;</p>
